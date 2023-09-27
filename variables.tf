@@ -18,7 +18,7 @@ variable "prefix" {
 
 variable "region" {
   description = "The region where the resources are created."
-  default     = "us-central1"
+  default     = "us-west1"
 }
 
 variable "zone" {
